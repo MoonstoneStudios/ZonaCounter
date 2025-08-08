@@ -3,6 +3,8 @@ A quick CLI app I created to let me keep track of how much money I spend on Ariz
 
 The default behaviour when calling with no arguments is to increment "Ginseng and Honey," or what you set ad the default, by 1.
 
+**NOT YET TESTED ON WINDOWS OR MACOS!!**
+
 Usage:
 
 ```
